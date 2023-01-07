@@ -23,9 +23,9 @@ name                     : "Jianglong Yu"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Jaron-U"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/IMG_1721.jpg"
+repository               : # "Jaron-U"
+teaser                   : # "/images/IMG_1721.jpg"
+logo                     : # "/images/IMG_1721.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
