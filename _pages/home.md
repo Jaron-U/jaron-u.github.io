@@ -19,4 +19,4 @@ I am currently working as a teaching assistant for the CS290 Web Development cou
 
 - **Development a Supply Chain Model based on BLOG**
   - Implement a model making predictions for uncertain events by using probabilistic programming language.
-  - I am woring with my mentor, [Dr. Mohan](http://www.karthikamohan.com/), building a supply chain model using the probabilistic programming language called BLOG in order to answer causal queries.
+  - I am working with my mentor, [Dr. Mohan](http://www.karthikamohan.com/), building a supply chain model using the probabilistic programming language called BLOG in order to answer causal queries.
