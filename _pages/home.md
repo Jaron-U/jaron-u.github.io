@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi 👋,
-My name is Jianglong Yu(Jaron). I am a senior at Oregon State University. My major is Computer Science and my area of concentration is Artificial Intelligence.  
+My name is Jianglong Yu(Jaron). I am a senior student at Oregon State University. My major is Computer Science and my area of concentration is Artificial Intelligence.  
 
 I am currently working as a teaching assistant for the CS290 Web Development course.  
 ## Ongoing Project  
