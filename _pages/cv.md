@@ -19,7 +19,7 @@ Skills
 ======
 ***
 * **Programming Language:** C/C++, Python, JavaScript, Node.js
-* **Developer Tools:** VSCode, Visual Studio
+* **Developer Tools:** VSCode, Visual Studio, Android Stuido
 * **Libraries:** Pandas, OpenCV, NumPy
 
 Projects
@@ -41,8 +41,8 @@ Projects
 Experience
 ======
 ***
-- *Teaching Assistanct*, **CS 290 Web Development Lecture, OSU**  
-*Jun.2022-Present*  
+- *Teaching Assistanct*, **Oregon State University**  
+*Jun.2022-Mar.2023*  
   - Assisted the course instructor in grading and reviewing students’ weekly
   assignments, quizzes, and course materials.
   - Arranged FAQ sessions to tackle students’ problems encountered in lectures and
