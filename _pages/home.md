@@ -11,7 +11,7 @@ redirect_from:
 Hi 👋,
 My name is Jianglong Yu(Jaron). I am a senior student at Oregon State University. My major is Computer Science and my area of concentration is Artificial Intelligence.  
 
-I am currently working as a teaching assistant for the CS290 Web Development course.  
+I am currently working as an undergraduate graduate assistant helping Professor Mohan with the data processing work.   
 ## Ongoing Project  
 - **GIS Tool – Safer-Ways**  
   - Safer-Ways that enables users to calculate optimal routes between location  while avoiding hazardous obstacles.
@@ -20,7 +20,8 @@ I am currently working as a teaching assistant for the CS290 Web Development cou
   - With Safer-Ways, users can efficiently calculate routes that avoid wildfire perimeters, flood maps, degraded infrastructure, and other dangerous areas. Additionally, the platform allows for complex route aggregation operations to evaluate the efficiency of evacuation points.
 
 
-- **Development a Supply Chain Model**
-  *Mentor: Mohan, Karthika*
-  - Implement a model making predictions for uncertain events by using probabilistic programming language.
-  - I am working with my mentor, [Dr. Mohan](http://www.karthikamohan.com/), building a supply chain model using the probabilistic programming language called BLOG in order to answer causal queries.
+- **Development a Supply Chain Model**  
+  *Mentor: [Mohan, Karthika](http://www.karthikamohan.com/)*
+  - Implement a model making predictions for uncertain events by using probabilistic programming language.  
+  - 	Building a supply chain model using the Python in order to answer causal queries.
+  - 	Collect relevant data and generate values of different parameters in the supply chain using different probability distributions, and then answer the causal queries through the model.
