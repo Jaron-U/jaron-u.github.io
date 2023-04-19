@@ -23,5 +23,5 @@ I am currently working as an undergraduate graduate assistant helping Professor 
 - **Development a Supply Chain Model**  
   *Mentor: [Mohan, Karthika](http://www.karthikamohan.com/)*
   - Implement a model making predictions for uncertain events by using probabilistic programming language.  
-  - 	Building a supply chain model using the Python in order to answer causal queries.
-  - 	Collect relevant data and generate values of different parameters in the supply chain using different probability distributions, and then answer the causal queries through the model.
+  - Building a supply chain model using the Python in order to answer causal queries.
+  - Collect relevant data and generate values of different parameters in the supply chain using different probability distributions, and then answer the causal queries through the model.
