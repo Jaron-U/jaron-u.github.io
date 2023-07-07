@@ -8,20 +8,20 @@ redirect_from:
   - /home.html
 ---
 
-Hi 👋,
-My name is Jianglong Yu(Jaron). I am a senior student at Oregon State University. My major is Computer Science and my area of concentration is Artificial Intelligence.  
+Hi 👋,  
+My name is Jianglong Yu(Jaron). recently graduated with a bachelor's degree in Computer Science from Oregon State University. I will soon be embarking on my journey as a graduate student at TAMU, specializing in AI within the field of Computer Science. Currently, I am actively seeking internship opportunities for the summer of 2024.  
 
-I am currently working as an undergraduate graduate assistant helping Professor Mohan with the data processing work.   
-## Ongoing Project  
+##  Research
 - **GIS Tool – Safer-Ways**  
-  - Safer-Ways that enables users to calculate optimal routes between location  while avoiding hazardous obstacles.
-  - Our team created a suite of user-friendly interfaces that incorporate open-source routing software and geographic data, including intuitive toolbox extensions in ArcGIS Pro.
-  - I specifically contributed by using the Flask framework to develop the project's backend.
-  - With Safer-Ways, users can efficiently calculate routes that avoid wildfire perimeters, flood maps, degraded infrastructure, and other dangerous areas. Additionally, the platform allows for complex route aggregation operations to evaluate the efficiency of evacuation points.
+  *Mentor: [Professor. Joseph Louis](https://research.engr.oregonstate.edu/louis/about)*
+  - Developed Safer-Ways, an app for optimal route calculation while avoiding hazards.
+  - Created user-friendly interfaces using ArcGIS Pro and open-source routing software.
+  - Contributed to the project's backend and frontend using Flask framework and JavaScript.
+  - Implemented functionality to avoid wildfires, floods, and degraded infrastructure.
+  - Designed complex route aggregation operations for evaluating evacuation points.
 
 
 - **Development a Supply Chain Model**  
-  *Mentor: [Mohan, Karthika](http://www.karthikamohan.com/)*
-  - Implement a model making predictions for uncertain events by using probabilistic programming language.  
-  - Building a supply chain model using the Python in order to answer causal queries.
+  *Mentor: [Professor. Karthika Mohan](http://www.karthikamohan.com/)*  
+  - Building a supply chain model using the Probabilistic Programming Languages (PPLs) in order to answer causal queries.
   - Collect relevant data and generate values of different parameters in the supply chain using different probability distributions, and then answer the causal queries through the model.
