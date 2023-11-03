@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 Hi 👋,  
-My name is Jianglong Yu(Jaron). recently graduated with a bachelor's degree in Computer Science from Oregon State University. I will soon be embarking on my journey as a graduate student at TAMU, specializing in AI within the field of Computer Science. Currently, I am actively seeking internship opportunities for the summer of 2024.  
+My name is Jianglong Yu(Jaron).
+Energetic and aspiring Computer Science Master's student at Texas A&M University, with a strong passion and focus on Artificial Intelligence, machine learning, and software development. Known for my quick learning abilities, problem-solving skills, and a collaborative mindset, I am eager to apply these skills in a challenging internship. I aim to contribute to innovative projects, gaining practical experience in real-world applications, while preparing for a future career in cutting-edge technology sectors like autonomous driving. My goal is to continuously enhance my knowledge in AI and machine learning, driving innovation and technological advancement. 
 
 ##  Research
-- **GIS Tool – Safer-Ways**  
+- **GIS Tool – Safer-Ways**
+  * **Keyword:**  ArcGIS, Flask, JavaScript, Routing, Leaflet   
   *Mentor: [Professor. Joseph Louis](https://research.engr.oregonstate.edu/louis/about)*
   - Developed Safer-Ways, an app for optimal route calculation while avoiding hazards.
   - Created user-friendly interfaces using ArcGIS Pro and open-source routing software.
@@ -23,5 +25,8 @@ My name is Jianglong Yu(Jaron). recently graduated with a bachelor's degree in C
 
 - **Development a Supply Chain Model**  
   *Mentor: [Professor. Karthika Mohan](http://www.karthikamohan.com/)*  
-  - Building a supply chain model using the Probabilistic Programming Languages (PPLs) in order to answer causal queries.
-  - Collect relevant data and generate values of different parameters in the supply chain using different probability distributions, and then answer the causal queries through the model.
+  * **Keyword:**  Probabilistic Programming, Causal Queries  
+  - BuiltasupplychainmodelusingProbabilisticProgrammingLanguages(PPLs)toaddresscausal
+  queries.
+  - Gathered data, parameterized probability distributions, and interpreted causal relations within
+  the model.

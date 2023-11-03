@@ -7,6 +7,8 @@ redirect_from:
   - /cv
 ---
 
+*Resume[pdf]:* [JianglongYu_Resume](http://jaron-u.github.io/files/JianglongYu_Resume.pdf) 
+
 Education
 ======
 ***
@@ -47,8 +49,3 @@ Experience
   assignments, quizzes, and course materials.
   - Arranged FAQ sessions to tackle students’ problems encountered in lectures and
   assignments.  
-
-<br>
-<br>
-<br>
-*Resume[pdf]:* [JianglongYu-Resume](http://jaron-u.github.io/files/JianglongYu-Resume.pdf)  
